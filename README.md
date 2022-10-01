@@ -1,5 +1,4 @@
-# Beyond_relativistic_Lagrangian_perturbation_theory
-Beyond relativistic Lagrangian perturbation theory: A numerical example.
+# Beyond relativistic Lagrangian perturbation theory: A numerical example.
 
 This notebook contains the code used to generate the figures shown in *Section Numerical Example* of the paper *Delgado Gaspar, Buchert and Ostrowski (2022)*. It intends to provide a pedagogical introduction to GRZA as a generalization of Szekeres models.
 
